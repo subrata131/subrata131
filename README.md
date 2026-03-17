@@ -58,8 +58,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/subrata131"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/subrata131">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/subrata-das-a38b11396">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  
+  <a href="(https://www.instagram.com/mr.stranger_24.07/)">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+  <a href="mailto:bikashdas991915@@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
