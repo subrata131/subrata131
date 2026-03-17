@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   
-  <a href="[https://www.instagram.com/mr.stranger_24.07/]">
+  <a href="https://www.instagram.com/mr.stranger_24.07/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
