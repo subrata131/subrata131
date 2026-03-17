@@ -1,53 +1,67 @@
-# Hi 👋, I'm Subrata Das
+<h1 align="center">Hi 👋, I'm Subrata Das</h1>
+<h3 align="center">🚀 Passionate Programmer | C & Python Developer</h3>
 
-🎓 B.Tech CSE Student  
-💻 Passionate about Programming  
-🚀 Learning C, Python & Web Development  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%20Programmer;Python%20Developer;Building%20Projects;Future%20Software%20Engineer&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🔥 GitHub Stats
+## 💫 About Me
 
-![Stats](https://github-readme-stats.vercel.app/api?username=subrata131&show_icons=true&theme=radical)
+- 💻 I love building real-world projects  
+- 🚀 Currently working with C & Python  
+- 🎯 Focused on improving problem-solving skills  
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=subrata131&theme=radical)
+---
+
+## 🎓 Education
+
+- 🎓 Recently pursuing **B.Tech (CSE)** from **Brainware University**
 
 ---
 
 ## 🛠️ Tech Stack
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,vscode,git,github" />
+</p>
 
 ---
 
-## 📌 Projects
+## 📊 GitHub Stats
 
-- 🔹 Expense Tracker  
-- 🔹 Result Analyzer  
-- 🔹 Basic Calculator  
-- 🔹 Smart Task Manager  
-
----
-
-## 📚 Currently Learning
-
-- Data Structures  
-- C Programming  
-- Python  
-- Web Development  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subrata131&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subrata131&theme=radical" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Activity Graph
 
-- GitHub: https://github.com/subrata131
-- LinkedIn: www.linkedin.com/in/subrata-das-a38b11396
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata131&theme=react-dark"/>
+</p>
 
-  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=subrata131&theme=react-dark)
-  ## 🏆 Achievements
+---
 
-- Completed DSA basics  
-- Built multiple C & Python projects  
-- Learning problem solving daily  
+## 🚀 Featured Projects
+
+- 🔹 **Personal Expense Tracker**  
+- 🔹 **RGPV Result Analyzer**  
+- 🔹 **Basic Mathematics Calculator**  
+- 🔹 **Smart Task Manager**  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/subrata131"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
+
+---
+
+<p align="center">🔥 Keep Learning | Keep Building 🔥</p> 
