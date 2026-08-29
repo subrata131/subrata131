@@ -46,14 +46,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔹 **Personal Expense Tracker**  
-- 🔹 **RGPV Result Analyzer**  
-- 🔹 **Basic Mathematics Calculator**  
-- 🔹 **Smart Task Manager**  
-
----
 
 ## 🌐 Connect With Me
 
