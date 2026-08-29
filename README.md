@@ -344,19 +344,68 @@ Voice assistant using speech recognition, TTS and API integration.
 
 </div>
 
+<!-- ======================= GITHUB ANALYTICS ======================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=subrata131&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7C3AED&text_color=FFFFFF"
+  height="180"
+/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=subrata131&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=EC4899&currStreakLabel=00F7FF"
+  height="180"
+/>
+
+</div>
+
+<br>
+
+<!-- ======================= LANGUAGES ======================= -->
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=subrata131&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
+  height="180"
+/>
+
+</div>
+
 ---
 
-<!-- ===================== ACTIVITY ===================== -->
+<!-- ======================= TROPHIES ======================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=subrata131&theme=onestar&no-frame=true&no-bg=true&column=6"
+  width="90%"
+/>
+
+</div>
+
+---
+
+<!-- ======================= ACTIVITY ======================= -->
 
 <h2 align="center">📈 Contribution Activity</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subrata131&bg_color=0D1117&color=00F7FF&line=7F00FF&point=FF00A8&area=true&hide_border=true"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=subrata131&bg_color=0D1117&color=00F7FF&line=7C3AED&point=EC4899&area=true&hide_border=true"
+  width="95%"
+/>
 
 </div>
-
----
 
 <!-- ===================== GOALS ===================== -->
 
