@@ -140,7 +140,7 @@ A Python-based voice assistant project that combines speech recognition, text-to
 
 Currently practicing:
 
-```text
+
 Arrays
 Linked Lists
 Stacks
@@ -157,6 +157,7 @@ Time & Space Complexity
 
 
 > 💡 My goal is to solve problems consistently and improve my logical thinking.
+
 
 ---
 
@@ -263,4 +264,4 @@ Currently pursuing my undergraduate degree and building my foundation in program
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-```
+
