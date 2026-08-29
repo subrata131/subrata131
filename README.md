@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi 👋, I'm Subrata Das</h1>
 
 <h3 align="center">
@@ -154,7 +154,7 @@ Sorting Algorithms
 Searching Algorithms
 Recursion
 Time & Space Complexity
-````
+
 
 > 💡 My goal is to solve problems consistently and improve my logical thinking.
 
